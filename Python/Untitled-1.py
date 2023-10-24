@@ -3,6 +3,7 @@ surname = input()
 letter1 = len(firstname)
 letter2 = len(surname)
 username = surname[0], surname[1], surname[2], firstname[0],
+
 print(username)
 print("Enter username")
 usernameguess = input()
